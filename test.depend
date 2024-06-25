@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1698155619 source:/home/wassim/SI/test/cube(1).cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cmath>
+
+1698341625 source:/home7/we328367/Documents/test/cube(1).cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cmath>
+
+1698784248 source:/home/wassim/SI/lapin/test/cube(1).cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cmath>
+
+1698941741 source:/home/imane/Downloads/lapin/test/cube(1).cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cmath>
+
+1700179547 source:/home/wassim/SI/lapin1/lapin/test/cube(1).cpp
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+	<cmath>
+
+1700181450 source:/home/imane/Downloads/lapin1/lapin/test/cube(1).cpp
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+	<cmath>
+
+1700260583 source:/home/wassim/SI/lapinVF/lapin1/lapin/test/cube(1).cpp
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+	<cmath>
+
